@@ -1,4 +1,5 @@
 #author: zhousc
+#E-mail:zhousc88@gmail.com
 
 import os
 import random
